@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{31F777EB-59FF-4144-AB09-319C265DA372}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GradeBookExample/GradeBook.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GradeBookExample/Program.cs">
     <Files>
-      <File FileName="GradeBookExample/Program.cs" Line="1" Column="1" />
-      <File FileName="GradeBookExample/GradeBook.cs" Line="1" Column="1" />
+      <File FileName="GradeBookExample/Program.cs" Line="17" Column="13" />
+      <File FileName="GradeBookExample/GradeBook.cs" Line="16" Column="28" />
+      <File FileName="GradeBookExample/GradeStatistics.cs" Line="8" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
