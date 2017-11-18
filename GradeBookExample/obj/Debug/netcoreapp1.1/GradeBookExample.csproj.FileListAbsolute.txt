@@ -1,0 +1,10 @@
+/Users/michaelg/Code/GradeBookExample/GradeBookExample/bin/Debug/netcoreapp1.1/GradeBookExample.deps.json
+/Users/michaelg/Code/GradeBookExample/GradeBookExample/bin/Debug/netcoreapp1.1/GradeBookExample.runtimeconfig.json
+/Users/michaelg/Code/GradeBookExample/GradeBookExample/bin/Debug/netcoreapp1.1/GradeBookExample.runtimeconfig.dev.json
+/Users/michaelg/Code/GradeBookExample/GradeBookExample/obj/Debug/netcoreapp1.1/GradeBookExample.csprojResolveAssemblyReference.cache
+/Users/michaelg/Code/GradeBookExample/GradeBookExample/obj/Debug/netcoreapp1.1/GradeBookExample.csproj.CoreCompileInputs.cache
+/Users/michaelg/Code/GradeBookExample/GradeBookExample/obj/Debug/netcoreapp1.1/GradeBookExample.AssemblyInfo.cs
+/Users/michaelg/Code/GradeBookExample/GradeBookExample/bin/Debug/netcoreapp1.1/GradeBookExample.dll
+/Users/michaelg/Code/GradeBookExample/GradeBookExample/bin/Debug/netcoreapp1.1/GradeBookExample.pdb
+/Users/michaelg/Code/GradeBookExample/GradeBookExample/obj/Debug/netcoreapp1.1/GradeBookExample.dll
+/Users/michaelg/Code/GradeBookExample/GradeBookExample/obj/Debug/netcoreapp1.1/GradeBookExample.pdb
